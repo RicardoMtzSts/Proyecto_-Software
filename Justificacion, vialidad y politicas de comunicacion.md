@@ -8,11 +8,11 @@ Herbamed nace de la necesidad de preservar, validar y democratizar el conocimien
 La plataforma busca integrar el saber tradicional con evidencia científica, ofreciendo un repositorio interactivo, accesible y confiable para consulta, educación y comercio ético de plantas medicinales.
 
 ¿Por qué Herbamed es relevante?
-Vacío en el mercado: No existe una plataforma integral que combine validación científica, participación comunitaria y un modelo de negocio sostenible.
+- Vacío en el mercado: No existe una plataforma integral que combine validación científica, participación comunitaria y un modelo de negocio sostenible.
 
-Impacto social: Contribuye a la preservación cultural y al acceso a información confiable sobre autocuidado responsable.
+- Impacto social: Contribuye a la preservación cultural y al acceso a información confiable sobre autocuidado responsable.
 
-Oportunidad económica: Responde a la creciente demanda global de wellness, medicina natural y productos con origen ético.
+- Oportunidad económica: Responde a la creciente demanda global de wellness, medicina natural y productos con origen ético.
 
 ---
 
