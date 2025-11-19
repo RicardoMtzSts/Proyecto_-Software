@@ -56,9 +56,9 @@ Este documento establece el plan formal de comunicación para el proyecto **Herb
 ## 5. Formato de Informe de Progreso Semanal
 
 ### INFORME SEMANAL HERBAMED - [Fecha]
-**Semana:** [Número de semana]  
-**Período:** [Fecha inicio] - [Fecha fin]  
-**Elaborado por:** [Director de Proyecto]
+**Semana:** indefinido  
+**Período:** agosto] - diciembre 
+**Elaborado por:** Equipo de desarrollo
 
 ### 5.1 Resumen Ejecutivo
 Breve resumen de los logros principales, estado general del proyecto y puntos críticos.
@@ -67,7 +67,7 @@ Breve resumen de los logros principales, estado general del proyecto y puntos cr
 
 | Área | Avances Esta Semana | Próximos Pasos | Bloqueadores |
 |------|---------------------|----------------|--------------|
-| **Desarrollo** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
+| **Desarrollo** | • <br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
 | **Diseño** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
 | **Contenido** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
 | **Marketing** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
