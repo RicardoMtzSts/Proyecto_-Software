@@ -69,14 +69,14 @@ La plataforma busca integrar el saber tradicional con evidencia científica, ofr
 4. Asignación de Personal
 | Rol | Responsable | Responsabilidades Clave |
 |-----|-------------|-------------------------|
-| Director de Proyecto | [Nombre] | Coordinación general, seguimiento de cronograma y riesgos |
-| CTO | [Nombre] | Arquitectura técnica, escalabilidad, seguridad |
-| Backend Developer | [Nombre] | Desarrollo de API, base de datos, integraciones |
-| Frontend Developer | [Nombre] | Interfaz de usuario, experiencia móvil y web |
-| Diseñador UX/UI | [Nombre] | Prototipos, guías de estilo, usabilidad |
-| Especialista en Herbolaria | [Nombre] | Validación de contenido, fichas técnicas |
-| Director de Marketing | [Nombre] | Estrategia de adopción, alianzas, crecimiento |
-| Legal & Compliance | [Nombre] | Normativa, protección de datos, términos de uso |
+| Director de Proyecto | [Ricardo] | Coordinación general, seguimiento de cronograma y riesgos |
+| CTO | [Ricardo] | Arquitectura técnica, escalabilidad, seguridad |
+| Backend Developer | [Maviel] | Desarrollo de API, base de datos, integraciones |
+| Frontend Developer | [Karen] | Interfaz de usuario, experiencia móvil y web |
+| Diseñador UX/UI | [Maviel] | Prototipos, guías de estilo, usabilidad |
+| Especialista en Herbolaria | [Karen] | Validación de contenido, fichas técnicas |
+| Director de Marketing | [Maviel] | Estrategia de adopción, alianzas, crecimiento |
+| Legal & Compliance | [Maviel] | Normativa, protección de datos, términos de uso |
 
 ---
 
