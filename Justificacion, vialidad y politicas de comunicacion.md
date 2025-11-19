@@ -67,6 +67,7 @@ La plataforma busca integrar el saber tradicional con evidencia científica, ofr
 ---
 
 4. Asignación de Personal
+   
 | Rol | Responsable | Responsabilidades Clave |
 |-----|-------------|-------------------------|
 | Director de Proyecto | [Ricardo] | Coordinación general, seguimiento de cronograma y riesgos |
