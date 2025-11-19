@@ -18,39 +18,39 @@ La plataforma busca integrar el saber tradicional con evidencia científica, ofr
 
 2. Viabilidad Consolidada
 2.1 Viabilidad Técnica
-Arquitectura escalable: Vue.js (web), React Native (móvil), Spring Boot (backend), PostgreSQL, AWS.
+- Arquitectura escalable: Vue.js (web), React Native (móvil), Spring Boot (backend), PostgreSQL, AWS.
 
-MVP en 8 semanas con enfoque en funcionalidades esenciales.
+- MVP en 8 semanas con enfoque en funcionalidades esenciales.
 
-Tecnologías open-source y estándares de seguridad implementados desde el inicio.
+- Tecnologías open-source y estándares de seguridad implementados desde el inicio.
 
 2.2 Viabilidad Económica (Modelo Stellar)
-Inversión inicial: $420,000 MXN.
+- Inversión inicial: $420,000 MXN.
 
-ROI año 1: 52%.
+- ROI año 1: 52%.
 
-Punto de equilibrio: 6 meses.
+- Punto de equilibrio: 6 meses.
 
-Flujos de ingreso: Comisiones de marketplace, suscripciones premium, publicidad contextual y consultorías.
+- Flujos de ingreso: Comisiones de marketplace, suscripciones premium, publicidad contextual y consultorías.
 
 2.3 Viabilidad Operativa
-Equipo multidisciplinario identificado y roles definidos.
+- Equipo multidisciplinario identificado y roles definidos.
 
-Recursos tecnológicos y humanos alineados con el alcance del proyecto.
+- Recursos tecnológicos y humanos alineados con el alcance del proyecto.
 
-Interfaz intuitiva diseñada para diversos perfiles de usuario.
+- Interfaz intuitiva diseñada para diversos perfiles de usuario.
 
 2.4 Viabilidad Legal
-Cumplimiento normativo: Ley Federal de Protección de Datos, Reglamento de Salud, propiedad intelectual.
+- Cumplimiento normativo: Ley Federal de Protección de Datos, Reglamento de Salud, propiedad intelectual.
 
-Asesoría legal especializada incluida en el presupuesto.
+- Asesoría legal especializada incluida en el presupuesto.
 
-Términos y condiciones que limitan responsabilidad por autodiagnóstico.
+- Términos y condiciones que limitan responsabilidad por autodiagnóstico.
 
 2.5 Viabilidad Temporal
-Cronograma total: 12 semanas.
+- Cronograma total: 12 semanas.
 
-Entregables claros por fase: diseño, desarrollo, pruebas y lanzamiento controlado.
+- Entregables claros por fase: diseño, desarrollo, pruebas y lanzamiento controlado.
 
 ---
 
