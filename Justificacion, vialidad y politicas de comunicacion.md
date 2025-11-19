@@ -56,7 +56,7 @@ La plataforma busca integrar el saber tradicional con evidencia científica, ofr
 
 3. Cronograma de Alto Nivel
    
-##Fase	Duración	Entregables	Responsables
+## Fase	Duración	Entregables	Responsables
 -
 Análisis y Diseño	2 semanas	Especificaciones técnicas, wireframes, diseño UX/UI	Product Manager + Diseñador UX
 -
