@@ -59,9 +59,13 @@ La plataforma busca integrar el saber tradicional con evidencia científica, ofr
 Fase	Duración	Entregables	Responsables
 -
 Análisis y Diseño	2 semanas	Especificaciones técnicas, wireframes, diseño UX/UI	Product Manager + Diseñador UX
+-
 Desarrollo Backend y BD	4 semanas	API funcional, base de datos relacional, autenticación	Backend Team (Spring Boot)
+-
 Desarrollo Frontend	3 semanas	App móvil (React Native), web (Vue.js), integración con APIs	Frontend Team
+-
 Pruebas y Calidad	2 semanas	Pruebas de usabilidad, seguridad, carga y aceptación	QA Engineer + CTO
+-
 Lanzamiento Controlado	1 semana	Release en stores, despliegue en producción, monitoreo	DevOps + Marketing
    
 ---
