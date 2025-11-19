@@ -67,10 +67,10 @@ Breve resumen de los logros principales, estado general del proyecto y puntos cr
 
 | Área | Avances Esta Semana | Próximos Pasos | Bloqueadores |
 |------|---------------------|----------------|--------------|
-| **Desarrollo** |contrato • <br>• tabla kanban | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
-| **Diseño** | • login<br>• tabla kanban  | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
-| **Contenido** | • indefinido<br>• tabla kanban  | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
-| **Marketing** | • indefinido<br>• tabla kanban  | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
+| **Desarrollo** |contrato • <br>•  | • tabla kanban<br>•  | [Si aplica] |
+| **Diseño** | • login<br>•  | • tabla kanban<br>•  | [Si aplica] |
+| **Contenido** | • indefinido<br>•  | • tabla kanban<br>• ] | [Si aplica] |
+| **Marketing** | • indefinido<br>•   | • tabla kanban<br>•  | [Si aplica] |
 
 ### 5.3 Métricas Clave
 
@@ -84,17 +84,17 @@ Breve resumen de los logros principales, estado general del proyecto y puntos cr
 
 | ID Riesgo | Descripción | Estado | Acciones Tomadas |
 |-----------|-------------|--------|------------------|
-| **R01** | Falta de financiamiento | Crítico | [Acciones específicas] |
-| **R02** | Información no verificada | En mitigación | [Acciones específicas] |
+| **R01** | Falta de financiamiento | Crítico | Indefinodo |
+| **R02** | Información no verificada | En mitigación | Lluvia de ideas |
 
 ### 5.5 Plan para la Próxima Semana
-**Objetivo Principal:** [Objetivo claro y medible]
+**Objetivo Principal:** Llegar a despegar la DAap
 
 **Entregables Clave:**
-- [Entregable 1]
-- [Entregable 2]
+- backend
+- [Frontend
 
-**Reuniones Programadas:** [Lista de reuniones importantes]
+**Reuniones Programadas:** Hablar proximos pasos y retroalimentaciones.
 
 ---
 
@@ -108,14 +108,7 @@ Breve resumen de los logros principales, estado general del proyecto y puntos cr
 | **Aliados Académicos** | Bimestral | Reporte técnico + reunión | Jefe de Contenido |
 | **Comunidad Usuarios** | Semanal | Newsletter + redes sociales | Director de Marketing |
 
-### 6.2 Protocolo de Escalación
-```
-Problema → Responsable Directo → Director de Proyecto → Comité de Dirección
-    ↑                             ↑                       ↑
-  24 hrs                       48 hrs                  72 hrs
-```
 
----
 
 ## 7. Indicadores de Comunicación Efectiva
 
@@ -130,24 +123,14 @@ Problema → Responsable Directo → Director de Proyecto → Comité de Direcci
 
 ### 8.1 Acta de Reunión
 ```
-# Acta de Reunión - [Nombre Reunión]
-**Fecha:** [Fecha]
-**Asistentes:** [Lista]
-**Puntos Tratados:** [Lista]
-**Acuerdos:** [Lista numerada]
-**Siguientes Pasos:** [Tarea - Responsable - Fecha]
+# Acta de Reunión - Retroalimentaciones
+**Fecha:** cada semana
+**Asistentes:** Equipo de desarrollo
+**Puntos Tratados:** Avances del proyecto
+**Acuerdos:** Agilizaciony planecion
+**Siguientes Pasos:** asignacion de nuevas tareas y roles 
 ```
 
-### 8.2 Reporte de Bloqueador
-```
-# Reporte de Bloqueador
-**Fecha:** [Fecha]
-**Reportado por:** [Nombre]
-**Descripción:** [Explicación clara]
-**Impacto:** [Bajo/Medio/Alto/Crítico]
-**Acciones Tomadas:** [Lista]
-**Solicitud de Apoyo:** [Específico]
-```
 
 ---
 
@@ -165,14 +148,14 @@ Este plan de comunicación será revisado y actualizado:
 
 | Rol | Nombre | Email | Teléfono | Canal Preferido |
 |-----|--------|-------|----------|-----------------|
-| **Director de Proyecto** | [Nombre] | [email] | [tel] | Slack/Email |
-| **CTO** | [Nombre] | [email] | [tel] | Slack |
-| **Director Financiero** | [Nombre] | [email] | [tel] | Email/Meet |
-| **Jefe de Contenido** | [Nombre] | [email] | [tel] | Slack |
+| **Director de Proyecto** | Ricardo | --- | --- | Slack/Email |
+| **CTO** | Ricardo | --- | --- | Slack/Meet |
+| **Director Financiero** | Maviel | --- | --- | Email/Meet |
+| **Jefe de Contenido** | Maviel | [---| [---| Slack/Meet|
 
 ---
 
 ## Repositorio Oficial: 
-https://github.com/[organización]/herbamed
+https://github.com/RicardoMtzSts/Proyecto_-Software
 
 ---
