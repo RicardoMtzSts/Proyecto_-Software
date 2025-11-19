@@ -1,5 +1,5 @@
 # Documento de Consolidación del Proyecto: Herbamed
-Repositorio Oficial en GitHub: https://github.com/RicardoMtzSts/herbamed-blockchain
+Repositorio Oficial en GitHub: https://github.com/RicardoMtzSts/Proyecto_-Software
 
 ---
 
@@ -56,61 +56,58 @@ La plataforma busca integrar el saber tradicional con evidencia científica, ofr
 
 3. Cronograma de Alto Nivel
    
-* Fase	Duración	Entregables	Responsables
--
-Análisis y Diseño	2 semanas	Especificaciones técnicas, wireframes, diseño UX/UI	Product Manager + Diseñador UX
--
-Desarrollo Backend y BD	4 semanas	API funcional, base de datos relacional, autenticación	Backend Team (Spring Boot)
--
-Desarrollo Frontend	3 semanas	App móvil (React Native), web (Vue.js), integración con APIs	Frontend Team
--
-Pruebas y Calidad	2 semanas	Pruebas de usabilidad, seguridad, carga y aceptación	QA Engineer + CTO
--
-Lanzamiento Controlado	1 semana	Release en stores, despliegue en producción, monitoreo	DevOps + Marketing
--   
+| Fase | Duración | Entregables | Responsables |
+|------|----------|-------------|-------------|
+| Análisis y Diseño | 2 semanas | Especificaciones técnicas, wireframes, diseño UX/UI | Product Manager + Diseñador UX |
+| Desarrollo Backend y BD | 4 semanas | API funcional, base de datos relacional, autenticación | Backend Team (Spring Boot) |
+| Desarrollo Frontend | 3 semanas | App móvil (React Native), web (Vue.js), integración con APIs | Frontend Team |
+| Pruebas y Calidad | 2 semanas | Pruebas de usabilidad, seguridad, carga y aceptación | QA Engineer + CTO |
+| Lanzamiento Controlado | 1 semana | Release en stores, despliegue en producción, monitoreo | DevOps + Marketing |
+
 ---
 
 4. Asignación de Personal
-Rol	Responsable	Responsabilidades Clave
-Director de Proyecto	[Nombre]	Coordinación general, seguimiento de cronograma y riesgos
-CTO	[Nombre]	Arquitectura técnica, escalabilidad, seguridad
-Backend Developer	[Nombre]	Desarrollo de API, base de datos, integraciones
-Frontend Developer	[Nombre]	Interfaz de usuario, experiencia móvil y web
-Diseñador UX/UI	[Nombre]	Prototipos, guías de estilo, usabilidad
-Especialista en Herbolaria	[Nombre]	Validación de contenido, fichas técnicas
-Director de Marketing	[Nombre]	Estrategia de adopción, alianzas, crecimiento
-Legal & Compliance	[Nombre]	Normativa, protección de datos, términos de uso
+| Rol | Responsable | Responsabilidades Clave |
+|-----|-------------|-------------------------|
+| Director de Proyecto | [Nombre] | Coordinación general, seguimiento de cronograma y riesgos |
+| CTO | [Nombre] | Arquitectura técnica, escalabilidad, seguridad |
+| Backend Developer | [Nombre] | Desarrollo de API, base de datos, integraciones |
+| Frontend Developer | [Nombre] | Interfaz de usuario, experiencia móvil y web |
+| Diseñador UX/UI | [Nombre] | Prototipos, guías de estilo, usabilidad |
+| Especialista en Herbolaria | [Nombre] | Validación de contenido, fichas técnicas |
+| Director de Marketing | [Nombre] | Estrategia de adopción, alianzas, crecimiento |
+| Legal & Compliance | [Nombre] | Normativa, protección de datos, términos de uso |
 
 ---
 
 5. Políticas de Comunicación del Equipo
 5.1 Canales Oficiales
-GitHub: Repositorio principal para issues, documentación y código.
+- GitHub: Repositorio principal para issues, documentación y código.
 
-Slack: Comunicación diaria, coordinación rápida, canales por área.
+- Slack: Comunicación diaria, coordinación rápida, canales por área.
 
-Google Meet: Reuniones semanales de seguimiento y revisiones técnicas.
+- Google Meet: Reuniones semanales de seguimiento y revisiones técnicas.
 
 5.2 Estructura de Reuniones
-Reunión Diaria (15 min): Stand-up vía Slack (texto o audio).
+- Reunión Diaria (15 min): Stand-up vía Slack (texto o audio).
 
-Reunión Semanal (1 hr): Revisión de avances, riesgos y próximos pasos.
+- Reunión Semanal (1 hr): Revisión de avances, riesgos y próximos pasos.
 
-Revisión Mensual: Presentación de métricas, KRI's y ajustes al plan.
+- Revisión Mensual: Presentación de métricas, KRI's y ajustes al plan.
 
 5.3 Gestión de Documentación
-Todos los documentos técnicos, legales y de diseño estarán en GitHub.
+- Todos los documentos técnicos, legales y de diseño estarán en GitHub.
 
-Versiones y cambios se gestionan mediante commits y pull requests.
+- Versiones y cambios se gestionan mediante commits y pull requests.
 
-Acceso restringido según roles y responsabilidades.
+- Acceso restringido según roles y responsabilidades.
 
 5.4 Comunicación Externa
-Comunicados oficiales serán publicados en el blog de Herbamed.
+- Comunicados oficiales serán publicados en el blog de Herbamed.
 
-Redes sociales: Solo el equipo de marketing tiene autorización para publicar.
+- Redes sociales: Solo el equipo de marketing tiene autorización para publicar.
 
-Prensa y aliados: Comunicación centralizada por el Director de Proyecto.
+- Prensa y aliados: Comunicación centralizada por el Director de Proyecto.
 
 ---
 
@@ -118,9 +115,8 @@ Prensa y aliados: Comunicación centralizada por el Director de Proyecto.
 Herbamed es un proyecto técnica, económica y socialmente viable, con un modelo optimizado (Stellar) que acelera el retorno de inversión y minimiza riesgos.
 Este documento consolida la base para su ejecución, con un cronograma realista, roles definidos y políticas claras de comunicación.
 
-Próximo hito: Inicio de Fase 1 (Análisis y Diseño) en [fecha de inicio].
 
-🔗 Enlace al repositorio: https://github.com/[organización]/herbamed
+🔗 Enlace al repositorio: GitHub: https://github.com/RicardoMtzSts/herbamed-blockchain
 📧 Contacto del equipo: 21620008@tlaxiaco.tecnm.mx
 
 Este documento será actualizado en cada fase significativa del proyecto.
