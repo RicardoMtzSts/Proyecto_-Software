@@ -67,10 +67,10 @@ Breve resumen de los logros principales, estado general del proyecto y puntos cr
 
 | Área | Avances Esta Semana | Próximos Pasos | Bloqueadores |
 |------|---------------------|----------------|--------------|
-| **Desarrollo** | • <br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
-| **Diseño** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
-| **Contenido** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
-| **Marketing** | • [Avance 1]<br>• [Avance 2] | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
+| **Desarrollo** |contrato • <br>• tabla kanban | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
+| **Diseño** | • login<br>• tabla kanban  | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
+| **Contenido** | • indefinido<br>• tabla kanban  | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
+| **Marketing** | • indefinido<br>• tabla kanban  | • [Próximo 1]<br>• [Próximo 2] | [Si aplica] |
 
 ### 5.3 Métricas Clave
 
