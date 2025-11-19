@@ -1,5 +1,5 @@
 # Documento de Consolidación del Proyecto: Herbamed
-Repositorio Oficial en GitHub: https://github.com/[organización]/herbamed
+Repositorio Oficial en GitHub: https://github.com/RicardoMtzSts/herbamed-blockchain
 
 ---
 
