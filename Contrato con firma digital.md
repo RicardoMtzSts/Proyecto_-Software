@@ -1,8 +1,8 @@
-# 📜 CONTRATO SIMBÓLICO DE COMPROMISO DEL PROYECTO HERBAMED
+# CONTRATO SIMBÓLICO DE COMPROMISO DEL PROYECTO HERBAMED
 
 **Fecha de Creación:** 18/11/2025
-**Repositorio Oficial:** https://github.com/[organización]/herbamed  
-**Hash del Commit:** [hash-del-commit]
+**Repositorio Oficial:** https://github.com/RicardoMtzSts/Proyecto_-Software
+**Hash del Commit:** ...
 
 ## PREÁMBULO
 Nosotros, los abajo firmantes, miembros del equipo de desarrollo de Herbamed, reconocemos la importancia de este proyecto para la preservación de la herbolaria mexicana y nos comprometemos formalmente a cumplir con los objetivos, plazos y estándares de calidad establecidos en la documentación del proyecto.
@@ -67,10 +67,10 @@ Nosotros, los abajo firmantes, miembros del equipo de desarrollo de Herbamed, re
 
 | Hito | Fecha Comprometida | Estado |
 |------|-------------------|--------|
-| Inicio del Proyecto | [Fecha] | ✅ |
-| Finalización Fase 1 (MVP) | [Fecha + 8 semanas] | ⌛ |
-| Lanzamiento Público | [Fecha + 12 semanas] | ⌛ |
-| Meta Usuarios Año 1 | [Fecha + 1 año] | ⌛ |
+| Inicio del Proyecto | Hace 3 meses | listo |
+| Finalización Fase 1 (MVP) | hace 2 meses | en proceso |
+| Lanzamiento Público | 19/11/25 + indeterminado| en proceso |
+| Meta Usuarios Año 1 | indeterminado | en proceso |
 
 ## ARTÍCULO 4: ACUERDOS DE COLABORACIÓN
 
@@ -97,31 +97,31 @@ Cada miembro del equipo manifiesta su compromiso con este proyecto mediante su a
 **Firmas del Equipo:**
 
 **Director de Proyecto:**  
-[Nombre del Director] - ✅ Aprobado el [Fecha]  
+Ricardo -  Aprobado el Desde el inicio
 *"Me comprometo a liderar este proyecto con dedicación y asegurar el cumplimiento de nuestros objetivos."*
 
 **CTO:**  
-[Nombre del CTO] - ✅ Aprobado el [Fecha]  
+Ricardo -  Aprobado el Desde el inicio
 *"Garantizo la excelencia técnica y escalabilidad de nuestra plataforma."*
 
 **Desarrollador Backend:**  
-[Nombre Backend] - ✅ Aprobado el [Fecha]  
+Maviel - Aprobado el Desde el inicio
 *"Comprometido con el desarrollo de un backend robusto y eficiente."*
 
 **Desarrollador Frontend:**  
-[Nombre Frontend] - ✅ Aprobado el [Fecha]  
+Karen - Aprobado el Desde el inicio
 *"Me comprometo a crear interfaces intuitivas y experiencias de usuario excepcionales."*
 
 **Diseñador UX/UI:**  
-[Nombre Diseñador] - ✅ Aprobado el [Fecha]  
+Maviel - Aprobado el Desde el inicio
 *"Comprometida con diseñar una plataforma accesible y visualmente coherente."*
 
 **Especialista en Herbolaria:**  
-[Nombre Especialista] - ✅ Aprobado el [Fecha]  
+Karen -  Aprobado el Desde el inicio 
 *"Garantizo la precisión científica y cultural de todo el contenido herbolar."*
 
 **Director de Marketing:**  
-[Nombre Marketing] - ✅ Aprobado el [Fecha]  
+Maviel -  Aprobado el Desde el inicio
 *"Comprometido con posicionar Herbamed como referencia en herbolaria mexicana."*
 
 ## ARTÍCULO 6: RATIFICACIÓN COLECTIVA
@@ -131,18 +131,18 @@ Cada miembro del equipo manifiesta su compromiso con este proyecto mediante su a
 *"Nosotros, el equipo completo de Herbamed, ratificamos nuestro compromiso colectivo con el éxito de este proyecto. Reconocemos la importancia de nuestra misión de preservar y democratizar el conocimiento de la herbolaria mexicana, y nos comprometemos a trabajar colaborativamente para hacer de Herbamed una plataforma de referencia a nivel nacional e internacional."*
 
 **Votación Final:**  
-✅ **A FAVOR:** Todos los miembros del equipo  
-❌ **EN CONTRA:** 0  
-⚠️ **ABSTENCIONES:** 0
+**A FAVOR:** Todos los miembros del equipo  
+**EN CONTRA:** 0  
+**ABSTENCIONES:** 0
 
-## 📋 CHECKLIST FINAL DE COMPROMISO
+##  CHECKLIST FINAL DE COMPROMISO
 - [ ] Todos los miembros han leído y entendido el contrato
 - [ ] Cada miembro ha agregado su firma digital mediante aprobación de PR
 - [ ] Los compromisos específicos por rol han sido aceptados
 - [ ] El cronograma ha sido revisado y aceptado colectivamente
 - [ ] Los acuerdos de colaboración son comprendidos por todos
 
-🔗 **Esta Pull Request permanecerá abierta como recordatorio de nuestro compromiso colectivo.**  
-📅 **Próxima revisión de compromisos:** [Fecha de revisión mensual]
+ **Esta Pull Request permanecerá abierta como recordatorio de nuestro compromiso colectivo.**  
+ **Próxima revisión de compromisos:** Indefinido
 
-*"Juntos preservaremos el conocimiento ancestral de la herbolaria mexicana para las futuras generaciones."* 🌿💻
+*"Juntos preservaremos el conocimiento ancestral de la herbolaria mexicana para las futuras generaciones."* 
