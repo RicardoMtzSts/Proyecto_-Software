@@ -116,7 +116,7 @@ Herbamed es un proyecto técnica, económica y socialmente viable, con un modelo
 Este documento consolida la base para su ejecución, con un cronograma realista, roles definidos y políticas claras de comunicación.
 
 
-🔗 Enlace al repositorio: GitHub: https://github.com/RicardoMtzSts/herbamed-blockchain
-📧 Contacto del equipo: 21620008@tlaxiaco.tecnm.mx
+Enlace al repositorio: GitHub: https://github.com/RicardoMtzSts/herbamed-blockchain
+Contacto del equipo: 21620008@tlaxiaco.tecnm.mx
 
 Este documento será actualizado en cada fase significativa del proyecto.
